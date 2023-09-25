@@ -9,13 +9,14 @@ namespace FactoryDesignPattern
     class Program
     {
         static void Main(string[] arg)
-        { 
-            ICreditCards cardDetails = CreditCardFactory.GetCreditCard("Platinium");
-            if (cardDetails != null)
+        {
+            PlatiniumFactory platiniumFactory = new PlatiniumFactory();
+            ICreditCards cardCard = platiniumFactory.CreateProduct(); 
+            if (cardCard != null)
             {
-                Console.WriteLine("CardType: " + cardDetails.GetCardType());
-                Console.WriteLine("CreditLimit: " + cardDetails.GetCreditLimit());
-                Console.WriteLine("AnnualCharge: " + cardDetails.GetAnnualCharge());
+                Console.WriteLine("CardType: " + cardCard.GetCardType());
+                Console.WriteLine("CreditLimit: " + cardCard.GetCreditLimit());
+                Console.WriteLine("AnnualCharge: " + cardCard.GetAnnualCharge());
             }
             else
             { 

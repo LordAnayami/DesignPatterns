@@ -6,25 +6,16 @@ using System.Threading.Tasks;
 
 namespace FactoryDesignPattern
 {
-    class CreditCardFactory
+    public abstract class CreditCardFactory
     {
-        public static ICreditCards GetCreditCard(string cardType)
-        {
-            ICreditCards cardDetails = null;
+        protected abstract ICreditCards MakeProduct();
 
-            if (cardType == "MoneyBack")
-            {
-                cardDetails = new MoneyBack();
-            }
-            else if (cardType == "Tytanium")
-            {
-                cardDetails = new Tytanium();
-            }
-            else if (cardType == "Platinium")
-            {
-                cardDetails = new Platinium();
-            }
-            return cardDetails;
+        public ICreditCards CreateProduct()
+        {
+            ICreditCards creditCard = this.MakeProduct();
+            return creditCard;
         }
     }
+    
+    
 }

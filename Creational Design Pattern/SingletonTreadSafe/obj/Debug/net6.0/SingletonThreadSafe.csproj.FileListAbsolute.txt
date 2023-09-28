@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\bin\Debug\net6.0\SingletonThreadSafe.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\bin\Debug\net6.0\SingletonThreadSafe.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\bin\Debug\net6.0\SingletonThreadSafe.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\bin\Debug\net6.0\SingletonThreadSafe.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\bin\Debug\net6.0\SingletonThreadSafe.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\refint\SingletonThreadSafe.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\ref\SingletonThreadSafe.dll

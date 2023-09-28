@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\NoSealedSingleton.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\NoSealedSingleton.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\NoSealedSingleton.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\NoSealedSingleton.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\NoSealedSingleton.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\refint\NoSealedSingleton.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\NoSealedSingleton.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\ref\NoSealedSingleton.dll

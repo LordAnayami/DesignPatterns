@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\bin\Debug\net6.0\SigletonStaticClassIsDifferent.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\bin\Debug\net6.0\SigletonStaticClassIsDifferent.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\bin\Debug\net6.0\SigletonStaticClassIsDifferent.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\bin\Debug\net6.0\SigletonStaticClassIsDifferent.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\bin\Debug\net6.0\SigletonStaticClassIsDifferent.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\refint\SigletonStaticClassIsDifferent.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\SigletonStaticClassIsDifferent.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SigletonStaticClassIsDifferent\obj\Debug\net6.0\ref\SigletonStaticClassIsDifferent.dll

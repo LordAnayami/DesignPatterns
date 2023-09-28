@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\bin\Debug\net6.0\FluentInterfaceDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\bin\Debug\net6.0\FluentInterfaceDesignPattern.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\bin\Debug\net6.0\FluentInterfaceDesignPattern.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\bin\Debug\net6.0\FluentInterfaceDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\bin\Debug\net6.0\FluentInterfaceDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\refint\FluentInterfaceDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\FluentInterfaceDesignPattern.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\FluentInterfaceDesignPattern\obj\Debug\net6.0\ref\FluentInterfaceDesignPattern.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\bin\Debug\net6.0\ShallowCopyDemo.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\bin\Debug\net6.0\ShallowCopyDemo.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\bin\Debug\net6.0\ShallowCopyDemo.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\bin\Debug\net6.0\ShallowCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\bin\Debug\net6.0\ShallowCopyDemo.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\refint\ShallowCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ShallowCopyDemo.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\ShallowCopyDemo\obj\Debug\net6.0\ref\ShallowCopyDemo.dll

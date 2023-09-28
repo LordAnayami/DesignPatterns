@@ -9,7 +9,7 @@ namespace FactoryDesignPattern
     class Program
     {
         static void Main(string[] arg)
-        {
+        { 
             PlatiniumFactory platiniumFactory = new PlatiniumFactory();
             ICreditCards cardCard = platiniumFactory.CreateProduct(); 
             if (cardCard != null)

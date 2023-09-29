@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\bin\Debug\net6.0\SingletonDesignPatternRealTimeExample.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\bin\Debug\net6.0\SingletonDesignPatternRealTimeExample.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\bin\Debug\net6.0\SingletonDesignPatternRealTimeExample.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\bin\Debug\net6.0\SingletonDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\bin\Debug\net6.0\SingletonDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\refint\SingletonDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\SingletonDesignPatternRealTimeExample.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonDesignPatternRealTimeExample\obj\Debug\net6.0\ref\SingletonDesignPatternRealTimeExample.dll

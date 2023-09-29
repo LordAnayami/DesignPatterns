@@ -3,7 +3,6 @@ C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeD
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.runtimeconfig.json
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.dll
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.pdb
-C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.AssemblyInfo.cs

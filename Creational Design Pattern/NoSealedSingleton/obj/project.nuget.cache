@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/dYoFo+SJu8nnRmrnOtaVyedD5UcKeK6pxzW50kP4C2gzoX99rJ7mEK0DAbMRpGpJhAljf81J7VuQBXgfGJptA==",
+  "dgSpecHash": "cmSvJ/swmSt5c5gNcjjV6IRKZu3IYj1DyL0S67S2Qi11ic2fHAEFbPAQQePH8g9ERNpTwecKnr2cLPVjTh8AAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\DesighPatterns\\Creational Design Pattern\\NoSealedSingleton\\SingletonNoSealed.csproj",
   "expectedPackageFiles": [],

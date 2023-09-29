@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\SingletonNoSealed.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\SingletonNoSealed.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\SingletonNoSealed.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\SingletonNoSealed.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\bin\Debug\net6.0\SingletonNoSealed.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\refint\SingletonNoSealed.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\SingletonNoSealed.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\NoSealedSingleton\obj\Debug\net6.0\ref\SingletonNoSealed.dll

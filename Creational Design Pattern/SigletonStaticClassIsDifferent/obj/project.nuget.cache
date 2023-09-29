@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fSnWckUDGE0TNjSqlMEQZcz3dHFQCpgOcQg4huOg1g7omn8Pxb28rLcYTeAcQJHxGb+IZE63veP8oAS4o/d82Q==",
+  "dgSpecHash": "wkPV59vcJweaGgSCPrguNP00Ch0aTHkRsEDT7axNr0V83m1bqfwhnnFzzjP3H/ouflmQX0iOe6kDDf+qpxrAhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\DesighPatterns\\Creational Design Pattern\\SigletonStaticClassIsDifferent\\SigletonStaticClassIsDifferent.csproj",
   "expectedPackageFiles": [],

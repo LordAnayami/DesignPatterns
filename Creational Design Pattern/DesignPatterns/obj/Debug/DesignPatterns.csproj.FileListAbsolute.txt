@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\bin\Debug\Day1Factory.exe.config
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\bin\Debug\Day1Factory.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\bin\Debug\Day1Factory.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\Day1Factory.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\Day1Factory.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DesignPatterns\obj\Debug\Day1Factory.pdb

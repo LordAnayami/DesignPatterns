@@ -13,3 +13,17 @@ C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\BuilderPattern\obj\Debug
 C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.pdb
 C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Day1Factory\BuilderPattern\obj\Debug\net6.0\ref\BuilderDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\bin\Debug\net6.0\BuilderDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\bin\Debug\net6.0\BuilderDesignPattern.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\bin\Debug\net6.0\BuilderDesignPattern.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\bin\Debug\net6.0\BuilderDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\bin\Debug\net6.0\BuilderDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\refint\BuilderDesignPattern.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\BuilderDesignPattern.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\BuilderPattern\obj\Debug\net6.0\ref\BuilderDesignPattern.dll

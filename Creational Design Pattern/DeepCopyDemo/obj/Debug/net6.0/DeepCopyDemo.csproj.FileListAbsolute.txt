@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\bin\Debug\net6.0\DeepCopyDemo.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\bin\Debug\net6.0\DeepCopyDemo.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\bin\Debug\net6.0\DeepCopyDemo.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\bin\Debug\net6.0\DeepCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\bin\Debug\net6.0\DeepCopyDemo.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\refint\DeepCopyDemo.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\DeepCopyDemo.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\DeepCopyDemo\obj\Debug\net6.0\ref\DeepCopyDemo.dll

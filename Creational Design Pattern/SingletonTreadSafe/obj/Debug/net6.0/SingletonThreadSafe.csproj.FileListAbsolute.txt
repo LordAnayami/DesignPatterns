@@ -1,4 +1,3 @@
-C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonTreadSafe\obj\Debug\net6.0\SingletonThreadSafe.AssemblyInfo.cs

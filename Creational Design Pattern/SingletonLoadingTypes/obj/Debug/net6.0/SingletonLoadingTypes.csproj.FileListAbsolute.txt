@@ -3,7 +3,6 @@ C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonL
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\bin\Debug\net6.0\SingletonLoadingTypes.runtimeconfig.json
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\bin\Debug\net6.0\SingletonLoadingTypes.dll
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\bin\Debug\net6.0\SingletonLoadingTypes.pdb
-C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\obj\Debug\net6.0\SingletonLoadingTypes.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\obj\Debug\net6.0\SingletonLoadingTypes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\obj\Debug\net6.0\SingletonLoadingTypes.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\DesighPatterns\Creational Design Pattern\SingletonLoadingTypes\obj\Debug\net6.0\SingletonLoadingTypes.AssemblyInfo.cs

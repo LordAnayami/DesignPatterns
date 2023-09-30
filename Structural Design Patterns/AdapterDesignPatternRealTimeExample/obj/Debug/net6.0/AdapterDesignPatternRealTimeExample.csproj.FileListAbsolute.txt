@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\bin\Debug\net6.0\AdapterDesignPatternRealTimeExample.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\bin\Debug\net6.0\AdapterDesignPatternRealTimeExample.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\bin\Debug\net6.0\AdapterDesignPatternRealTimeExample.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\bin\Debug\net6.0\AdapterDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\bin\Debug\net6.0\AdapterDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\refint\AdapterDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\AdapterDesignPatternRealTimeExample.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\AdapterDesignPatternRealTimeExample\obj\Debug\net6.0\ref\AdapterDesignPatternRealTimeExample.dll

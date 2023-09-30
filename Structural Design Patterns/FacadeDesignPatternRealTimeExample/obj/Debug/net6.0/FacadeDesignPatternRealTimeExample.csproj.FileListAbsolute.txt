@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\bin\Debug\net6.0\FacadeDesignPatternRealTimeExample.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\bin\Debug\net6.0\FacadeDesignPatternRealTimeExample.deps.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\bin\Debug\net6.0\FacadeDesignPatternRealTimeExample.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\bin\Debug\net6.0\FacadeDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\bin\Debug\net6.0\FacadeDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\refint\FacadeDesignPatternRealTimeExample.dll
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\FacadeDesignPatternRealTimeExample.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FacadeDesignPatternRealTimeExample\obj\Debug\net6.0\ref\FacadeDesignPatternRealTimeExample.dll

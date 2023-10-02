@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\bin\Debug\BridgePatternRealTimeExample.exe.config
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\bin\Debug\BridgePatternRealTimeExample.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\bin\Debug\BridgePatternRealTimeExample.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\obj\Debug\BridgePatternRealTimeExample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\obj\Debug\BridgePatternRealTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\obj\Debug\BridgePatternRealTimeExample.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgePatternRealTimeExample\obj\Debug\BridgePatternRealTimeExample.pdb

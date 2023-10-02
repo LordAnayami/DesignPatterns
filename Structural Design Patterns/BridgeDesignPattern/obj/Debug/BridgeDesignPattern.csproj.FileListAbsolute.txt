@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

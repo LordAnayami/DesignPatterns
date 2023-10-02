@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe.config
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Structural Design Patterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.pdb

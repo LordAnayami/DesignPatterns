@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe.config
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.pdb
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.exe
+C:\Users\Lenovo\source\repos\DesighPatterns\Behavioral Design Patterns\Behavioral Design Patterns\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.pdb
